@@ -1,0 +1,45 @@
+h1
+{color: rgb(6, 205, 255); }
+.Tabr { color: rgb(6, 205, 255);
+    font-size: 40;
+}
+p{
+
+    font-size: 20
+}
+#par{
+    font-size: 20;
+    color: black;
+}
+h2 {
+    color: rgb(6, 205, 255);
+    font-size: 'Alumni Sans Collegiate One'
+}
+div { text-align: center;}
+
+
+img {height: 1000px;
+ width: 1000px;}
+
+#menu {
+list-style-type:none;
+margin: 0%;
+padding: 0%;
+overflow: hidden;
+font-size: 30px;
+}
+
+#menu li {
+float: left;
+}
+#menu li a{
+    display: block;
+    background-color: rgb(0, 0, 0);
+    padding: 15px 20px;
+    text-decoration: none;
+    color: rgb(6, 205, 255);
+}
+#menu li a:hover{
+    background-color: rgb(0, 0, 0);
+    border-bottom: 7px solid rgb(6, 205, 255); ;     
+}
